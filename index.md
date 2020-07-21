@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## If it really rained cats and dogs, there would be poodles all over the streets
 
-You can use the [editor on GitHub](https://github.com/primoapps/PrimoWeather/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I drought the above would ever happen, but if it did, you better be prepared. Same thing for when all the tornadoes get togther on the sunniest day of the week (Sunday, of course) and play a nice game of twister. Although, I hear only two tornadoes have been meeting up to play because three's a cloud.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Primo Weather will keep you up to date with whatever conditions may be heading your way.
 
-### Markdown
+### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Option to track your current location to get the latest forecast for wherever you may be
+- Add locations manually
+- View weather data (both daily and hourly) up to a week out
+- Visualize the upcoming days or hours with graphs and summaries
+- See temperature trends at a glace with a color coded user interface
+- Be informed about any current and upcoming weather alerts
+- Notification for new or updated alerts
+- Background updating at an interval of your choosing
+- Basic weather radar showing the last two hours of storm movement
+- Light, dark and automatic themes
+- Rename locations to make things a bit more personal
 
-```markdown
-Syntax highlighted code block
+### Planned Features
 
-# Header 1
-## Header 2
-### Header 3
+- Widgets for the homescreen
+- WearOS companion app
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
+Experiencing a problem or have a feature suggestion? Please don't hesitate to reach out! You may message / tweet us on [twitter](https://twitter.com/primodev) or send us an email at primoweather@gmail.com.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/primoapps/PrimoWeather/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Privacy Policy
