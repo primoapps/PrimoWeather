@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: [Primo Weather]
 description: [This is a test description.]
+background-image: url('/assets/background_plain.png')
