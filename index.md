@@ -20,7 +20,7 @@ Primo Weather will keep you up to date with whatever conditions may be heading y
 
 ### Privacy Policy
 
-Primo Weather is a free ad-supported weather applicaiton for Android devices. With the exception of an optional premium subscription, this is a free service and is provided as-is. The following section will detail how you personal information will be handled and what we, the developers, have access to. By using the application, you are agreeing to our policy.
+Primo Weather is a free ad-supported weather applicaiton for Android devices. With the exception of an optional premium subscription, this is a free service and is provided as-is. The following section will detail how your personal information will be handled and what we, the developers, have access to. By using the application, you are agreeing to our policy.
 
 #### External Services
 
