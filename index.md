@@ -1,10 +1,10 @@
-### If it really rained cats and dogs, there would be poodles all over the streets
+## If it really rained cats and dogs, there would be poodles all over the streets
 
 I drought the above would ever happen, but if it did, you better be prepared. Same thing for when all the tornadoes get togther on the sunniest day of the week (Sunday, of course) and play a nice game of twister. Although, I hear only two tornadoes have been meeting up to play because three's a cloud.
 
 Primo Weather will keep you up to date with whatever conditions may be heading your way.
 
-### Features
+## Features
 
 - Option to track your current location to get the latest forecast for wherever you may be
 - Add locations manually
@@ -18,7 +18,7 @@ Primo Weather will keep you up to date with whatever conditions may be heading y
 - Light, dark and automatic themes
 - Rename locations to make things a bit more personal
 
-### Privacy Policy
+## Privacy Policy
 
 Primo Weather is a free ad-supported weather applicaiton for Android devices. With the exception of an optional premium subscription, this is a free service and is provided as-is. The following section will detail how your personal information will be handled and what we, the developers, have access to. By using the application, you are agreeing to our policy.
 
@@ -48,6 +48,6 @@ This privacy policy is only applicable to the Primo Weather application. Clickin
 
 We do not knowingly collect data from anybody under the age of 13. Upon learning a child has provided us with their data, we will remove that data from our records.
 
-### Contact
+## Contact
 
 Experiencing a problem or have a feature suggestion? Please don't hesitate to reach out! You may message / tweet us on [twitter](https://twitter.com/primodev) or send us an email at primoweather@gmail.com.
