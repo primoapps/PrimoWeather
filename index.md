@@ -10,7 +10,7 @@ Primo Weather will keep you up to date with whatever conditions may be heading y
 - Add locations manually
 - View weather data (both daily and hourly) up to a week out
 - Visualize the upcoming days or hours with graphs and summaries
-- See temperature trends or conditions at a glace with a color coded user interface
+- See temperature trends or conditions at a glance with a color coded user interface
 - Be informed about any current and upcoming weather alerts
 - Notifications for new or updated alerts
 - Background updating at an interval of your choosing
